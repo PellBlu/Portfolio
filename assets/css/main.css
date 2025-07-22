@@ -142,7 +142,7 @@ input, select, textarea {
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border: 0;
-			color: inherit;
+			color: #a5a5a5;
 			text-decoration: none;
 		}
 
