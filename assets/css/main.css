@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #fff !important;
+			color: #5ed0b1 !important;
 		}
 
 	strong, b {
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #a5a5a5;
+		color: #5ed0b1;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -142,7 +142,7 @@ input, select, textarea {
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			border: 0;
-			color: #a5a5a5;
+			color: #5ed0b1;
 			text-decoration: none;
 		}
 
@@ -2729,7 +2729,7 @@ input, select, textarea {
 		}
 
 			#header a:hover {
-				color: #a5a5a5 !important;
+				color: #5ed0b1 !important;
 			}
 
 		#header > header {
