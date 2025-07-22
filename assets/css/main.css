@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00FA9A !important;
+			color: #a5a5a5 !important;
 		}
 
 	strong, b {
@@ -2729,7 +2729,7 @@ input, select, textarea {
 		}
 
 			#header a:hover {
-				color: #fff !important;
+				color: #a5a5a5 !important;
 			}
 
 		#header > header {
